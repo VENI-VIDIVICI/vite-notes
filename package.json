@@ -1,0 +1,16 @@
+{
+  "name": "vite-typescript-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4",
+    "vite": "^3.0.4",
+    "vuepress": "^2.0.0-beta.49"
+  },
+  "_id": "vite-typescript-starter@0.0.0"
+}
